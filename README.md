@@ -67,9 +67,6 @@ TranslateMate is a language translation application that leverages machine learn
 ## BLEU Score Evaluation
 The BLEU (Bilingual Evaluation Understudy) score is used to evaluate the quality of the translations. The scores for each language pair are calculated in the notebook using sample sentences and human-generated reference translations.
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request with your suggestions and improvements.
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
