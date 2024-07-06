@@ -37,6 +37,7 @@ TranslateMate is a language translation application that leverages machine learn
 - Install the required packages by running the setup cells.
 - Connect to the Anvil Uplink by replacing the placeholder with your Anvil Uplink key.
 
+  ```python
   import anvil.server
   anvil.server.connect("your-anvil-uplink-key")
 
@@ -52,16 +53,16 @@ TranslateMate is a language translation application that leverages machine learn
 - Click the "Text-to-Speech" button to hear the translation spoken aloud.
 
 ## Project Structure
-- TranslateMateML.ipynb: Main Google Colab notebook containing the backend code.
-- anvil_app: Folder containing the Anvil app files.
+- `TranslateMateML.ipynb`: Main Google Colab notebook containing the backend code.
+- `anvil_app`: Folder containing the Anvil app files.
 
 ## Models Used
-- English to French: Helsinki-NLP/opus-mt-en-fr
-- English to German: Helsinki-NLP/opus-mt-en-de
-- English to Spanish: Helsinki-NLP/opus-mt-tc-big-en-es
-- English to Italian: Helsinki-NLP/opus-mt-en-it
-- English to Russian: Helsinki-NLP/opus-mt-en-ru
-- English to Dutch: Helsinki-NLP/opus-mt-en-nl
+- `English to French`: [Helsinki-NLP/opus-mt-en-fr](Helsinki-NLP/opus-mt-en-fr)
+- `English to German`: [Helsinki-NLP/opus-mt-en-de](Helsinki-NLP/opus-mt-en-de)
+- `English to Spanish`: [Helsinki-NLP/opus-mt-tc-big-en-es](Helsinki-NLP/opus-mt-tc-big-en-es)
+- `English to Italian`: [Helsinki-NLP/opus-mt-en-it](Helsinki-NLP/opus-mt-en-it)
+- `English to Russian`: [Helsinki-NLP/opus-mt-en-ru](Helsinki-NLP/opus-mt-en-ru)
+- `English to Dutch`: [Helsinki-NLP/opus-mt-en-nl](Helsinki-NLP/opus-mt-en-nl)
 
 ## BLEU Score Evaluation
 The BLEU (Bilingual Evaluation Understudy) score is used to evaluate the quality of the translations. The scores for each language pair are calculated in the notebook using sample sentences and human-generated reference translations.
