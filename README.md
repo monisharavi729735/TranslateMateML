@@ -29,8 +29,8 @@ TranslateMate is a language translation application that leverages machine learn
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/monisharavi729735/TranslateMate.git
-   cd TranslateMate
+   git clone https://github.com/monisharavi729735/TranslateMateML.git
+   cd TranslateMateML
 
 2. **Set Up Google Colab**
 - Open the .ipynb file in Google Colab.
