@@ -75,6 +75,16 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - The Anvil team for the web app platform.
 - The Hugging Face team for the Transformers library.
 
+## Sample Demo
+<img src="assets/img1.png" alt="this is the TranslateMate App"/>
+<img src="assets/img2.png" alt="Toggle button for About"/>
+<img src="assets/img3.png" alt="Enter the text you want to translate here"/>
+<img src="assets/img4.png" alt="Choose your desired output language"/>
+<img src="assets/img5.png" alt="Text to speech is available for both input and output"/>
+<img src="assets/img6.png" alt="transliteration is available for Russian"/>
+<img src="assets/img7.png" alt="Thank you, give us your valuable feedback"/>
+The feedback link will redirect you to our Google Form where your feedback would be highly appreciated.
+
 <br />
 
 # About This [Anvil](https://anvil.works/?utm_source=github:app_README) App
