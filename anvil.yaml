@@ -1,0 +1,14 @@
+allow_embedding: false
+package_name: TranslateMateML
+name: Clone of TranslateMateML
+startup_form: Form1
+native_deps: {head_html: ''}
+correct_dependency_ids: {}
+uplink_visible: true
+runtime_options: {version: 2, client_version: '3', server_version: python3-sandbox, server_spec: null}
+dependencies: []
+metadata: {title: TranslateMateML, description: 'TranslateMate can translate english to multiple languages, read things out and provides transliteration to languages that do not use the English alphabet', logo_img: 'asset:translatemate-app-logo (1).jpg'}
+services:
+- source: /runtime/services/tables.yml
+  client_config: {}
+  server_config: {}
