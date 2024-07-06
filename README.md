@@ -2,10 +2,10 @@
 
 Note: To run this application locally, follow these steps:
 
-Clone the Repository: Clone the repository from GitHub.
-Create an Uplink: Set up an Anvil uplink.
-Copy the Code: Copy the provided code and paste it into a .ipynb file.
-Run the Notebook: Execute the entire Jupyter Notebook.
+- Clone the Repository: Clone the repository from GitHub.
+- Create an Uplink: Set up an Anvil uplink.
+- Copy the Code: Copy the provided code and paste it into a .ipynb file.
+- Run the Notebook: Execute the entire Jupyter Notebook.
 Once the execution is complete, your server will be ready, and you can use the application.
 
 ### Build web apps with nothing but Python.
