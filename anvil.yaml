@@ -1,6 +1,6 @@
 allow_embedding: false
 package_name: TranslateMateML
-name: Clone of TranslateMateML
+name: TranslateMateML
 startup_form: Form1
 native_deps: {head_html: ''}
 correct_dependency_ids: {}
